@@ -1,2 +1,2 @@
 # tasky_app
-A Flutter task management app that lets users create, organize, and prioritize tasks, track their progress, manage completed tasks, and customize their profile and app theme.
+A Flutter task management application that helps users organize their daily tasks efficiently. Users can create tasks, assign high-priority levels, and track their productivity through a progress overview. The app includes a Home screen with all tasks and progress statistics, a To Do screen for pending tasks, a Completed screen for finished tasks, and a Profile screen where users can manage their personal information and customize the app theme.
